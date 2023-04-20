@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#export http_proxy=http://joailson:Axl130213a@proxy.educacao.parana:8080
 
 apt-get  -y  -f  install
 cd /tmp
